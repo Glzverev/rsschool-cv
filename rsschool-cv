@@ -1,7 +1,47 @@
-(main)>>READMI.md
-(gh-pages)init: start App/The Rolling Scopes school-Auto-Test
-(gh-pages)init: start Github
-(gh-pages)init: start MediaGet
-(gh-pages)init: start uFiler
-(gh-pages)init: start  OBS Studio
-(gh-pages)READMI.mdhttps//Glzverev.github.io/rsschool-cv/cv
+# Portfolio
+### [rsschool-cv](https://github.com/Glzverev/rsschool-cv)
+
+---
+
+![Glab Zverev](https://drive.google.com/file/d/1I9WF-kAVx8fNUv8Vvkbxmzzeiqq9-4lQ/view?usp=drivesdk)
+***Glab Zverev***
+
+---
+
+## Contacts:
+- Belarus, Mogilev
+- [GITHUB](https://github.com/Glzverev)
+- [TELEGRAM](https://@ZverevGleb)
+- DISCORD *Glzverev*
+## About me:
+I'm new to this field, but I know that I can become an IT specialist
+---
+
+## Skills:
+
+no experience
+---
+
+## Code example:
+
+```php
+function createPhoneNumber($numbersArray) {
+   return '('.implode('', array_slice($numbersArray,0,3)).') '.
+     implode('', array_slice($numbersArray,3,3)).'-'.
+     implode('', array_slice($numbersArray,6,4));
+}
+```
+
+---
+
+## Experience
+no experience
+
+---
+
+## Education
+-No
+---
+
+## English
+I can read and speak a little.
